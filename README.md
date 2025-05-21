@@ -33,10 +33,15 @@
 
 ### 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](PASTE-YOUR-PORTFOLIO-LINK-HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](PASTE-YOUR-LINKEDIN-LINK-HERE)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)]([PASTE-YOUR-PORTFOLIO-LINK-HERE](https://rasil-portfoilo.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([PASTE-YOUR-LINKEDIN-LINK-HERE](https://www.linkedin.com/in/rasil-abro-28183a344/))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](PASTE-YOUR-FB-LINK-HERE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](PASTE-YOUR-INSTAGRAM-LINK-HERE)
+
+---
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/ABRO-515/ABRO-515/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
