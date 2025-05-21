@@ -40,10 +40,9 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/ABRO-515/ABRO-515/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABRO-515&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 ---
 
