@@ -2,8 +2,9 @@
 <h3 align="center">Front-End Developer | Creative Technologist | Web3 Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=I+build+visually+stunning+websites;I+craft+experiences+with+React%2C+Next%2C+Three+JS;Exploring+the+world+of+Blockchain+%26+Web3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=I+build+visually+stunning+websites;I+craft+experiences+with+React%2C+Next%2C+Three+JS;Exploring+the+world+of+Blockchain+%26+Web3" alt="Typing SVG" />
 </p>
+
 
 ---
 
