@@ -2,11 +2,9 @@
 <h3 align="center">iOS Mobile App Developer | Swift | SwiftUI | ARKit | BLE | Python</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" height="60" style="vertical-align:middle;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZlN3Z2d2Z2d3J2OXF3a2o2Z3V2d2N0b2I4N3Z3c2F0d2V2d3V1bCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2/gcF6c5u2jQyR6/giphy.gif" alt="iOS Spinner" height="50" />
   <br />
-  <img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" alt="iOS Spinner" height="30" style="margin-top:10px;" />
-  <br />
-  <em><b>iOS Developer Touch</b></em>
+  <em><b>iOS Vibes</b></em>
 </p>
 
 ---
