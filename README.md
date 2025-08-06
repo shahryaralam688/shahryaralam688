@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shahryar Alam</h1>
 <h3 align="center">iOS Mobile App Developer | Swift | SwiftUI | ARKit | BLE | Python</h3>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" height="60" style="vertical-align:middle;" />
+  <br />
+  <img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" alt="iOS Spinner" height="30" style="margin-top:10px;" />
+  <br />
+  <em><b>iOS Developer Touch</b></em>
+</p>
+
 ---
 
 ### 📬 Contact
