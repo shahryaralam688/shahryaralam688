@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shahryar Alam</h1>
 <h3 align="center">iOS Mobile App Developer | Swift | SwiftUI | ARKit | BLE | Python</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZlN3Z2d2Z2d3J2OXF3a2o2Z3V2d2N0b2I4N3Z3c2F0d2V2d3V1bCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2/gcF6c5u2jQyR6/giphy.gif" alt="iOS Spinner" height="50" />
   <br />
   <em><b>iOS Vibes</b></em>
-</p>
+</p> -->
 
 ---
 
