@@ -1,109 +1,106 @@
-<h1 align="center">Hi 👋, I'm Shahryar Alam</h1>
-<h3 align="center">iOS Mobile App Developer | Swift | SwiftUI | ARKit | BLE | Python</h3>
+# Hi there, I'm Shahryar Alam
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZlN3Z2d2Z2d3J2OXF3a2o2Z3V2d2N0b2I4N3Z3c2F0d2V2d3V1bCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2d2d2cCZlZzI4b2w1d2R1d2l2/gcF6c5u2jQyR6/giphy.gif" alt="iOS Spinner" height="50" />
-  <br />
-  <em><b>iOS Vibes</b></em>
-</p> -->
+<p align="left">
+  <b>iOS Mobile App Developer</b><br/>
+  Swift | SwiftUI | ARKit | RoomPlan | CoreBluetooth (BLE) | Python
+</p>
 
----
-
-### 📬 Contact
-
-- **Address:** Incholi Society Scheme 33, Gulzar E Hijri, Karachi, Sindh, Pakistan, Zip code: 75250
-- **Phone:** +92 311 4113767
-- **Email:** shahryaralamft@gmail.com
+<p>
+I build practical mobile experiences with clean UI, reliable BLE communication, and immersive AR features.
+</p>
 
 ---
 
-### 🧠 About Me
+## What I'm Working On Now
 
-I am an iOS Mobile App Developer with experience in building apps using Swift and SwiftUI. I have worked with CoreBluetooth to connect with BLE devices, and used ARKit and RoomPlan to create AR features and scan rooms. I’ve also worked with 3D models in iOS apps. My earlier experience with Android Studio and AI tools helped me improve my skills in app design, problem-solving, and understanding how apps work on different platforms. I enjoy creating easy-to-use and useful mobile apps.
-
----
-
-### 💼 Professional Experience
-
-**iOS Developer**  
-TL Innovation – Karachi, Pakistan  
-October 2024 – Present
-- Built iOS apps using Swift and SwiftUI.
-- Used CoreBluetooth to connect and control BLE devices.
-- Created AR features using ARKit and RoomPlan to scan rooms.
-- Displayed and interacted with 3D models in real-world environments.
-- Improved app design and user experience with clean, modern layouts.
-
-**Software Developer**  
-Pixel House – Karachi, Pakistan  
-February 2022 – October 2024
-- Worked on both iOS and backend projects.
-- Gained experience with Python, AI-based tools, and Android Studio.
-- Built small mobile apps and tools that helped improve my app development skills.
-- Learned how to design user-friendly interfaces and write clean, reusable code.
-
-**Python Development Intern**  
-Final Year Internship – 2021
-- Built simple tools using Python like web scraping and API usage.
-- Learned how to solve problems in different ways using programming.
-- Practiced writing clean code and understanding project structure.
+- Building advanced iOS features with **SwiftUI + modern app architecture**.
+- Improving **BLE device communication flows** for real-time control apps.
+- Expanding **AR room scanning and 3D placement workflows** with ARKit + RoomPlan.
+- Using **Python automation and AI-assisted tooling** to speed up development tasks.
 
 ---
 
-### 🚀 Project Experience
+## Experience
 
-**Smart Light Controller (iOS App)**  
-An iOS app to control smart lights via Bluetooth. Connected to BLE-enabled lights using CoreBluetooth. Controlled brightness, color temperature, and power state. Included a feature to automate lighting behavior using a custom AI logic.
+### iOS Developer - TL Innovation, Karachi
+**Oct 2024 - Present**
+- Developing iOS apps using Swift and SwiftUI.
+- Integrating BLE devices with CoreBluetooth for smart control systems.
+- Building AR features using ARKit and RoomPlan.
+- Rendering and interacting with 3D models in real-world scenes.
+- Enhancing UX with clean layouts and practical interaction patterns.
 
-**AR Room Scanner**  
-An ARKit-based app for scanning and visualizing room layouts. Used RoomPlan to detect and map room dimensions. Allowed users to place 3D furniture models inside the scanned space. Built with SwiftUI and SceneKit.
+### Software Developer - Pixel House, Karachi
+**Feb 2022 - Oct 2024**
+- Worked across iOS and backend-focused tasks.
+- Used Python and AI-based tools for productivity and automation.
+- Built mobile utilities and improved UI implementation quality.
+- Strengthened reusable code practices and feature delivery workflows.
 
-**Paraphrasing Tool (Python Project)**  
-An AI-powered tool to rewrite text with different sentence structures. Used NLP techniques and external APIs to paraphrase text. Supported multiple language formats and styles. Developed as part of a final-year internship.
-
-**E-commerce Product Tracker (Python Project)**  
-Scrapes prices and availability from online stores. Used BeautifulSoup and Requests libraries. Automatically updates product data in local files or web dashboard. Helped understand how APIs and automation work.
-
-**Android Booking App (Java/Android Studio)**  
-An Android app to book appointments or services. Designed user-friendly booking flow and calendar integration. Worked with Firebase for user authentication and real-time updates. Improved my skills in mobile UI design and Java programming.
-
----
-
-### 🎓 Education
-
-**Isra University, Hyderabad**  
-January 2018 – February 2022
-- Bachelor in Software Engineering
-- Graduated with a CGPA of 3.67
-- Excelled in programming and algorithm subjects, boosting my coding skills.
-- Dedicated and eager to continue growing in a dynamic professional environment.
+### Python Development Intern
+**2021**
+- Created small tools for web scraping and API integration.
+- Practiced clean code structure and problem-solving approaches.
 
 ---
 
-### 🛠️ Technical Skills
+## Featured Projects
 
-**Languages & Frameworks:**  
-Swift, SwiftUI, Python, Java, C++, C#, XML, CSS, CoreBluetooth, ARKit, RoomPlan, SceneKit
+### Smart Light Controller (iOS)
+BLE-based iOS app to control smart lights with power, brightness, and color temperature settings, plus custom automation logic.
 
-**Libraries & Tools:**  
-Android SDK, Pandas, NumPy, BeautifulSoup, Requests, Git, Xcode, Android Studio, REST APIs
+### AR Room Scanner
+ARKit + RoomPlan app to scan room dimensions and place 3D furniture models in mapped spaces.
 
-**Areas of Expertise:**  
-- iOS Mobile Development
-- AR/VR Integration
-- BLE Communication
-- Web Automation & Scraping
-- API Integration
+### Paraphrasing Tool (Python)
+AI-powered text rewriting utility using NLP and external APIs with style-aware output.
 
----
+### E-commerce Product Tracker (Python)
+Automated scraper for product price and availability tracking using BeautifulSoup and Requests.
 
-### 🌱 Personal Hobbies
-
-Reading Books • Riding • Travelling
+### Android Booking App (Java)
+Appointment/service booking app with Firebase authentication and real-time updates.
 
 ---
 
-### 🌍 Languages
+## Tech Stack
 
-- ★★★☆☆ Urdu
-- ★★★☆☆ English
+### Mobile & App
+Swift, SwiftUI, UIKit, CoreBluetooth, ARKit, RoomPlan, SceneKit, Android SDK, Java
+
+### Programming & Backend
+Python, C++, C#, REST APIs
+
+### Data / Automation
+Pandas, NumPy, BeautifulSoup, Requests
+
+### Tools
+Xcode, Android Studio, Git
+
+---
+
+## Education
+
+**Bachelor of Software Engineering**  
+Isra University, Hyderabad (Jan 2018 - Feb 2022)  
+CGPA: **3.67**
+
+---
+
+## Languages
+
+- Urdu
+- English
+
+---
+
+## Contact
+
+- Email: **shahryaralamft@gmail.com**
+- Location: Karachi, Pakistan
+
+---
+
+## Interests
+
+Reading | Riding | Travelling
