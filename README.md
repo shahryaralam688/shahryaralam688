@@ -97,7 +97,7 @@ CGPA: **3.67**
 ## Contact
 
 - Email: **shahryaralamft@gmail.com**
-- Location: Karachi, Pakistan
+- Location: Lahore, Pakistan
 
 ---
 
