@@ -1,143 +1,70 @@
-# Hi there, I'm Shahryar Alam
+<div align="center">
 
-<p align="left">
-  <b>iOS Developer @ Limi Lighting</b><br/>
-  SwiftUI · Three.js · BLE · ARKit · RoomPlan · Python Django REST API · AI Integration
-</p>
+# Shahryar Alam
 
-<p>
-I build full-stack mobile experiences — clean SwiftUI interfaces, interactive <b>Three.js</b> 3D scenes on iOS, reliable BLE device control, immersive AR workflows, and Python/Django backends with AI features.
-</p>
+**iOS Developer · Three.js · BLE · AR · AI**
 
----
+Building production mobile apps at **Limi Lighting** — SwiftUI interfaces, interactive 3D with Three.js, BLE device control, ARKit/RoomPlan, and Python backends.
 
-## What I'm Working On Now
+[LinkedIn](https://www.linkedin.com/in/shahryar-alam-ft/) · [Email](mailto:shahryaralamft@gmail.com) · UK
 
-- Shipping production iOS apps with **SwiftUI** and modern architecture.
-- Building **Three.js** 3D experiences inside iOS (configurators, form coaches, CSS3D UIs).
-- Building **BLE** control flows for smart lighting and real-time device apps at **Limi Lighting**.
-- Expanding **ARKit + RoomPlan** for room scanning and 3D placement.
-- Integrating **AI** (chatbots, NLP tooling) and **Django / FastAPI** backends with mobile clients.
+</div>
 
 ---
 
-## Experience
+### Tech I work with
 
-### iOS Developer — Limi Lighting
-**Oct 2024 – Present · UK**
-- Developing iOS apps with Swift and SwiftUI for smart lighting products.
-- Integrating BLE devices with CoreBluetooth for real-time control.
-- Building AR features with ARKit and RoomPlan.
-- Connecting mobile clients to Python backends and AI-assisted tooling.
-
-### Software Developer — Pixel House, Karachi
-**Feb 2022 – Oct 2024**
-- Worked across iOS and backend-focused tasks.
-- Used Python and AI-based tools for productivity and automation.
-- Built mobile utilities and improved UI implementation quality.
-- Strengthened reusable code practices and feature delivery workflows.
-
-### Python Development Intern
-**2021**
-- Created small tools for web scraping and API integration.
-- Practiced clean code structure and problem-solving approaches.
+`Swift` `SwiftUI` `Three.js` `ARKit` `RoomPlan` `CoreBluetooth` `Python` `Django REST` `FastAPI` `Firebase` `USDZ`
 
 ---
 
-## Featured Projects
+### Featured work
 
-### 3D / Three.js on iOS
-
-### [Bike Studio](https://github.com/shahryaralam688/bike-studio-ios)
-iOS 3D bike configurator with USDZ / AR Quick Look — interactive Three.js product studio.
-
-### [Form Studio](https://github.com/shahryaralam688/form-studio-ios)
-Bodyweight form coach (SwiftUI + Three.js + Mixamo) — guided 3D form tours and live demos.
-
-### [Three.js Periodic Table](https://github.com/shahryaralam688/ThreeJSPeriodicTable)
-iOS periodic table viewer — Three.js CSS3D layouts (table, sphere, helix, grid), neumorphic UI, pinch zoom.
-
----
-
-### SwiftUI Apps
-
-### [Stacked Social Feed](https://github.com/shahryaralam688/stacked-social-feed)
-LinkedIn-style professional social feed with sticky stacked post cards.
-
-### [Cafe Menu](https://github.com/shahryaralam688/cafe-menu)
-Native SwiftUI cafe ordering app with a circular dial picker and cart.
-
-### [Atlas Travel iOS](https://github.com/shahryaralam688/atlas-travel-ios)
-SwiftUI travel studio portfolio — SplitReveal preloader, animated card stack, mobile-first.
-
-### [Vespera](https://github.com/shahryaralam688/Vespera)
-SwiftUI iPhone home hero for a cinematic creative collective.
-
-### [The City Open](https://github.com/shahryaralam688/the-city-open)
-SwiftUI app with a locked swipe-scrub video hero.
+| Project | Stack | What it is |
+|--------|--------|------------|
+| [**Bike Studio**](https://github.com/shahryaralam688/bike-studio-ios) | SwiftUI · Three.js · USDZ | 3D bike configurator with AR Quick Look |
+| [**Form Studio**](https://github.com/shahryaralam688/form-studio-ios) | SwiftUI · Three.js · Mixamo | Bodyweight form coach with guided 3D tours |
+| [**Three.js Periodic Table**](https://github.com/shahryaralam688/ThreeJSPeriodicTable) | Three.js · CSS3D | Periodic table — table / sphere / helix / grid |
+| [**Stacked Social Feed**](https://github.com/shahryaralam688/stacked-social-feed) | SwiftUI | LinkedIn-style feed with sticky stacked cards |
+| [**Cafe Menu**](https://github.com/shahryaralam688/cafe-menu) | SwiftUI | Cafe ordering — circular dial picker + cart |
+| [**Atlas Travel**](https://github.com/shahryaralam688/atlas-travel-ios) | SwiftUI | Travel portfolio — SplitReveal + card stack |
+| [**TacTech Trainer**](https://github.com/shahryaralam688/TacTech-Trainer-iOS) | SwiftUI · FastAPI | Role-based trainer/trainee app + [backend](https://github.com/shahryaralam688/tactech-backend) |
+| [**Limi AI**](https://github.com/shahryaralam688/LimiAI) | Swift · AI | Smart lighting assistant & chatbot workflows |
 
 ---
 
-### Product / Full-Stack
+### Experience
 
-### [TacTech Trainer](https://github.com/shahryaralam688/TacTech-Trainer-iOS)
-Role-based trainer/trainee iOS app paired with a [FastAPI backend](https://github.com/shahryaralam688/tactech-backend).
+**iOS Developer — Limi Lighting** · Oct 2024 – Present · UK  
+SwiftUI apps for smart lighting · BLE / CoreBluetooth · ARKit + RoomPlan · AI-assisted tooling · Python APIs
 
-### [Limi AI](https://github.com/shahryaralam688/LimiAI)
-AI-powered iOS experience connected to lighting and chatbot workflows.
+**Software Developer — Pixel House** · Feb 2022 – Oct 2024 · Karachi  
+iOS + backend delivery · Python automation · reusable UI and feature workflows
 
-### Smart Light Controller (iOS)
-BLE-based app to control smart lights — power, brightness, color temperature, and custom automation.
-
-### AR Room Scanner
-ARKit + RoomPlan app to scan room dimensions and place 3D furniture in mapped spaces.
-
-More on GitHub → [github.com/shahryaralam688](https://github.com/shahryaralam688?tab=repositories)
+**Python Development Intern** · 2021  
+Scraping, API integration, clean code fundamentals
 
 ---
 
-## Tech Stack
+### Education
 
-### Mobile & App
-`Swift` `SwiftUI` `UIKit` `CoreBluetooth` `ARKit` `RoomPlan` `SceneKit` `Firebase`
-
-### 3D / WebGL
-`Three.js` `CSS3D` `USDZ` `AR Quick Look` `Mixamo`
-
-### Backend & AI
-`Python` `Django REST` `FastAPI` `REST APIs` `AI Integration`
-
-### Data / Automation
-`Pandas` `NumPy` `BeautifulSoup` `Requests`
-
-### Tools
-`Xcode` `Git` `Android Studio`
+**B.S. Software Engineering** — Isra University, Hyderabad (2018 – 2022) · CGPA **3.67**
 
 ---
 
-## Education
+### Currently focused on
 
-**Bachelor of Software Engineering**  
-Isra University, Hyderabad · Jan 2018 – Feb 2022  
-CGPA: **3.67**
-
----
-
-## Languages
-
-Urdu · English
+- Production SwiftUI architecture for lighting & control apps  
+- Three.js 3D experiences embedded in iOS (configurators, coaches, CSS3D UIs)  
+- Reliable BLE real-time control flows  
+- AR room scanning / 3D placement with ARKit + RoomPlan  
 
 ---
 
-## Contact
+<div align="center">
 
-- GitHub: [shahryaralam688](https://github.com/shahryaralam688)
-- Email: **shahryaralamft@gmail.com**
-- Location: **UK**
-- Company: **Limi Lighting**
+Open to collaboration on **iOS · 3D · BLE · AI** products  
 
----
+[github.com/shahryaralam688](https://github.com/shahryaralam688) · shahryaralamft@gmail.com
 
-## Interests
-
-Reading · Riding · Travelling
+</div>
