@@ -2,9 +2,9 @@
 
 # Shahryar Alam
 
-**iOS · Web · Three.js · BLE · AR · AI**
+**Software Engineer · iOS · Web · 3D**
 
-Building production apps at **Limi Lighting**, plus client websites shipped on Vercel — SwiftUI, interactive Three.js, BLE/AR, and modern React / Next.js frontends.
+iOS Developer at **Limi Lighting** (UK) — shipping mobile apps, interactive 3D experiences, and production websites.
 
 [LinkedIn](https://www.linkedin.com/in/shahryar-alam-ft/) · [Email](mailto:shahryaralamft@gmail.com) · UK
 
@@ -12,80 +12,101 @@ Building production apps at **Limi Lighting**, plus client websites shipped on V
 
 ---
 
-### Tech I work with
+## Mobile Application
 
-`Swift` `SwiftUI` `Three.js` `ARKit` `RoomPlan` `CoreBluetooth`  
-`React` `Next.js` `Vite` `Vercel` `Python` `Django REST` `FastAPI` `Firebase`
+Native iOS apps built with **Swift / SwiftUI**, plus BLE, AR, and AI integrations.
 
----
-
-### Featured iOS / 3D
-
-| Project | Stack | What it is |
-|--------|--------|------------|
+| App | Tech | Description |
+|-----|------|-------------|
 | [**Bike Studio**](https://github.com/shahryaralam688/bike-studio-ios) | SwiftUI · Three.js · USDZ | 3D bike configurator with AR Quick Look |
 | [**Form Studio**](https://github.com/shahryaralam688/form-studio-ios) | SwiftUI · Three.js · Mixamo | Bodyweight form coach with guided 3D tours |
-| [**Three.js Periodic Table**](https://github.com/shahryaralam688/ThreeJSPeriodicTable) | Three.js · CSS3D | Periodic table — table / sphere / helix / grid |
 | [**Stacked Social Feed**](https://github.com/shahryaralam688/stacked-social-feed) | SwiftUI | LinkedIn-style feed with sticky stacked cards |
-| [**Cafe Menu**](https://github.com/shahryaralam688/cafe-menu) | SwiftUI | Cafe ordering — circular dial picker + cart |
+| [**Cafe Menu**](https://github.com/shahryaralam688/cafe-menu) | SwiftUI | Cafe ordering app — dial picker + cart |
 | [**Atlas Travel**](https://github.com/shahryaralam688/atlas-travel-ios) | SwiftUI | Travel portfolio — SplitReveal + card stack |
-| [**TacTech Trainer**](https://github.com/shahryaralam688/TacTech-Trainer-iOS) | SwiftUI · FastAPI | Role-based trainer/trainee app + [backend](https://github.com/shahryaralam688/tactech-backend) |
-| [**Limi AI**](https://github.com/shahryaralam688/LimiAI) | Swift · AI | Smart lighting assistant & chatbot workflows |
+| [**TacTech Trainer**](https://github.com/shahryaralam688/TacTech-Trainer-iOS) | SwiftUI · FastAPI | Role-based trainer / trainee app |
+| [**Limi AI**](https://github.com/shahryaralam688/LimiAI) | Swift · AI | Smart lighting assistant & chatbot |
+| [**Vespera**](https://github.com/shahryaralam688/Vespera) | SwiftUI | Cinematic home-hero experience |
+| [**The City Open**](https://github.com/shahryaralam688/the-city-open) | SwiftUI | Locked swipe-scrub video hero |
 
 ---
 
-### Live websites (Vercel)
+## 3D / Three.js
 
-Client & product sites I’ve designed and shipped — open any link to view live.
+Interactive 3D UIs for iOS — product configurators, education, and motion.
 
-| Site | Live demo |
-|------|-----------|
-| **Universal High School** | [universal-high-school.vercel.app](https://universal-high-school.vercel.app) |
-| **Fundiza** | [fundiza.vercel.app](https://fundiza.vercel.app) |
-| **Jeton Landing** | [jeton-landing.vercel.app](https://jeton-landing.vercel.app) |
-| **Explore Karakuram** | [explore-karakuram.vercel.app](https://explore-karakuram.vercel.app) |
-| **Naeem Food Center** | [naeem-food-center.vercel.app](https://naeem-food-center.vercel.app) |
-| **Pak Tours Services** | [pak-tours-services.vercel.app](https://pak-tours-services.vercel.app) |
-| **Property Dealers Lahore** | [property-dealers-lahore-demo.vercel.app](https://property-dealers-lahore-demo.vercel.app) |
-| **Almalakia Travel & Tourism** | [almalakia-agency-travel-tourism.vercel.app](https://almalakia-agency-travel-tourism.vercel.app) |
-| **Aber Travel** | [aber-next-era-react.vercel.app](https://aber-next-era-react.vercel.app) |
-| **MSKSA** | [msksa.vercel.app](https://msksa.vercel.app) |
-| **TacTech Website** | [tactech-website.vercel.app](https://tactech-website.vercel.app) |
-| **Limi Glasses Admin** | [limi-glasses-admin.vercel.app](https://limi-glasses-admin.vercel.app) |
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**Bike Studio**](https://github.com/shahryaralam688/bike-studio-ios) | Three.js · USDZ · AR | Product configurator |
+| [**Form Studio**](https://github.com/shahryaralam688/form-studio-ios) | Three.js · Mixamo | 3D form coaching |
+| [**Three.js Periodic Table**](https://github.com/shahryaralam688/ThreeJSPeriodicTable) | Three.js · CSS3D | Table / sphere / helix / grid layouts |
 
 ---
 
-### Experience
+## Web Application
+
+Client & product websites — designed, built, and deployed on **Vercel**.
+
+| Website | Live |
+|---------|------|
+| Universal High School | [Open site](https://universal-high-school.vercel.app) |
+| Fundiza | [Open site](https://fundiza.vercel.app) |
+| Jeton Landing | [Open site](https://jeton-landing.vercel.app) |
+| Explore Karakuram | [Open site](https://explore-karakuram.vercel.app) |
+| Naeem Food Center | [Open site](https://naeem-food-center.vercel.app) |
+| Pak Tours Services | [Open site](https://pak-tours-services.vercel.app) |
+| Property Dealers Lahore | [Open site](https://property-dealers-lahore-demo.vercel.app) |
+| Almalakia Travel & Tourism | [Open site](https://almalakia-agency-travel-tourism.vercel.app) |
+| Aber Travel | [Open site](https://aber-next-era-react.vercel.app) |
+| MSKSA | [Open site](https://msksa.vercel.app) |
+| TacTech Website | [Open site](https://tactech-website.vercel.app) |
+| Limi Glasses Admin | [Open site](https://limi-glasses-admin.vercel.app) |
+
+---
+
+## Backend / AI
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**TacTech Backend**](https://github.com/shahryaralam688/tactech-backend) | FastAPI · Python | Production API for TacTech iOS |
+| [**Limi Hugging Face Chatbot**](https://github.com/shahryaralam688/limi-huggingface-chatbot) | Python · HF | Chatbot backend for lighting AI |
+| [**Paraphrasing Tool**](https://github.com/shahryaralam688/paraphrasing) | Python · NLP | Style-aware text rewriting |
+
+---
+
+## Experience
 
 **iOS Developer — Limi Lighting** · Oct 2024 – Present · UK  
-SwiftUI apps for smart lighting · BLE / CoreBluetooth · ARKit + RoomPlan · AI-assisted tooling · Python APIs
+Mobile apps for smart lighting · BLE / CoreBluetooth · ARKit + RoomPlan · AI tooling
 
 **Software Developer — Pixel House** · Feb 2022 – Oct 2024 · Karachi  
-iOS + web delivery · client websites · Python automation · reusable UI workflows
+iOS + web delivery · client products · Python automation
 
 **Python Development Intern** · 2021  
-Scraping, API integration, clean code fundamentals
+APIs, scraping, clean code fundamentals
 
 ---
 
-### Education
+## Education
 
 **B.S. Software Engineering** — Isra University, Hyderabad (2018 – 2022) · CGPA **3.67**
 
 ---
 
-### Currently focused on
+## Tech Stack
 
-- Production SwiftUI architecture for lighting & control apps  
-- Three.js 3D experiences embedded in iOS  
-- Client websites with React / Next.js on Vercel  
-- BLE real-time control · ARKit + RoomPlan workflows  
+| Area | Tools |
+|------|--------|
+| **Mobile** | Swift, SwiftUI, UIKit, CoreBluetooth, ARKit, RoomPlan, Firebase |
+| **3D** | Three.js, CSS3D, USDZ, AR Quick Look, Mixamo |
+| **Web** | React, Next.js, Vite, Vercel |
+| **Backend / AI** | Python, Django REST, FastAPI, REST APIs |
+| **Tools** | Xcode, Git, Android Studio |
 
 ---
 
 <div align="center">
 
-Open to work on **iOS · Web · 3D · BLE · AI** products  
+**Mobile Application · Web Application · 3D · Backend / AI**
 
 [github.com/shahryaralam688](https://github.com/shahryaralam688) · shahryaralamft@gmail.com
 
