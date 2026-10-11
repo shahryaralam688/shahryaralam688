@@ -2,9 +2,9 @@
 
 # Shahryar Alam
 
-**iOS Developer · Three.js · BLE · AR · AI**
+**iOS Developer · SwiftUI · Three.js · BLE · AR · AI · React Native**
 
-Core focus: **mobile application development** at **Limi Lighting** (UK) — SwiftUI, interactive Three.js on iOS, BLE device control, ARKit / RoomPlan, and AI-assisted products.
+Core focus: **mobile application development** at **Limi Lighting** (UK) — SwiftUI, React Native, interactive Three.js on iOS, BLE device control, ARKit / RoomPlan, and AI-assisted products.
 
 [LinkedIn](https://www.linkedin.com/in/shahryar-alam-ft/) · [Email](mailto:shahryaralamft@gmail.com) · UK
 
@@ -99,7 +99,7 @@ APIs, scraping, clean code fundamentals
 
 | Area | Tools |
 |------|--------|
-| **Mobile (core)** | Swift, SwiftUI, UIKit, CoreBluetooth, ARKit, RoomPlan, Firebase |
+| **Mobile (core)** | Swift, SwiftUI, React Native, UIKit, CoreBluetooth, ARKit, RoomPlan, Firebase |
 | **3D (core)** | Three.js, CSS3D, USDZ, AR Quick Look, Mixamo |
 | **Backend / AI** | Python, Django REST, FastAPI, REST APIs |
 | **Web (additional)** | React, Next.js, Vite, Vercel |
@@ -109,7 +109,7 @@ APIs, scraping, clean code fundamentals
 
 <div align="center">
 
-**Core: Mobile Application · 3D / Three.js · BLE · AR · AI**
+**Core: Mobile Application · SwiftUI · React Native · 3D / Three.js · BLE · AR · AI**
 
 [github.com/shahryaralam688](https://github.com/shahryaralam688) · shahryaralamft@gmail.com
 
