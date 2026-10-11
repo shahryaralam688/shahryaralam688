@@ -2,9 +2,9 @@
 
 # Shahryar Alam
 
-**iOS Developer · Three.js · BLE · AR · AI**
+**iOS · Web · Three.js · BLE · AR · AI**
 
-Building production mobile apps at **Limi Lighting** — SwiftUI interfaces, interactive 3D with Three.js, BLE device control, ARKit/RoomPlan, and Python backends.
+Building production apps at **Limi Lighting**, plus client websites shipped on Vercel — SwiftUI, interactive Three.js, BLE/AR, and modern React / Next.js frontends.
 
 [LinkedIn](https://www.linkedin.com/in/shahryar-alam-ft/) · [Email](mailto:shahryaralamft@gmail.com) · UK
 
@@ -14,11 +14,12 @@ Building production mobile apps at **Limi Lighting** — SwiftUI interfaces, int
 
 ### Tech I work with
 
-`Swift` `SwiftUI` `Three.js` `ARKit` `RoomPlan` `CoreBluetooth` `Python` `Django REST` `FastAPI` `Firebase` `USDZ`
+`Swift` `SwiftUI` `Three.js` `ARKit` `RoomPlan` `CoreBluetooth`  
+`React` `Next.js` `Vite` `Vercel` `Python` `Django REST` `FastAPI` `Firebase`
 
 ---
 
-### Featured work
+### Featured iOS / 3D
 
 | Project | Stack | What it is |
 |--------|--------|------------|
@@ -33,13 +34,34 @@ Building production mobile apps at **Limi Lighting** — SwiftUI interfaces, int
 
 ---
 
+### Live websites (Vercel)
+
+Client & product sites I’ve designed and shipped — open any link to view live.
+
+| Site | Live demo |
+|------|-----------|
+| **Universal High School** | [universal-high-school.vercel.app](https://universal-high-school.vercel.app) |
+| **Fundiza** | [fundiza.vercel.app](https://fundiza.vercel.app) |
+| **Jeton Landing** | [jeton-landing.vercel.app](https://jeton-landing.vercel.app) |
+| **Explore Karakuram** | [explore-karakuram.vercel.app](https://explore-karakuram.vercel.app) |
+| **Naeem Food Center** | [naeem-food-center.vercel.app](https://naeem-food-center.vercel.app) |
+| **Pak Tours Services** | [pak-tours-services.vercel.app](https://pak-tours-services.vercel.app) |
+| **Property Dealers Lahore** | [property-dealers-lahore-demo.vercel.app](https://property-dealers-lahore-demo.vercel.app) |
+| **Almalakia Travel & Tourism** | [almalakia-agency-travel-tourism.vercel.app](https://almalakia-agency-travel-tourism.vercel.app) |
+| **Aber Travel** | [aber-next-era-react.vercel.app](https://aber-next-era-react.vercel.app) |
+| **MSKSA** | [msksa.vercel.app](https://msksa.vercel.app) |
+| **TacTech Website** | [tactech-website.vercel.app](https://tactech-website.vercel.app) |
+| **Limi Glasses Admin** | [limi-glasses-admin.vercel.app](https://limi-glasses-admin.vercel.app) |
+
+---
+
 ### Experience
 
 **iOS Developer — Limi Lighting** · Oct 2024 – Present · UK  
 SwiftUI apps for smart lighting · BLE / CoreBluetooth · ARKit + RoomPlan · AI-assisted tooling · Python APIs
 
 **Software Developer — Pixel House** · Feb 2022 – Oct 2024 · Karachi  
-iOS + backend delivery · Python automation · reusable UI and feature workflows
+iOS + web delivery · client websites · Python automation · reusable UI workflows
 
 **Python Development Intern** · 2021  
 Scraping, API integration, clean code fundamentals
@@ -55,15 +77,15 @@ Scraping, API integration, clean code fundamentals
 ### Currently focused on
 
 - Production SwiftUI architecture for lighting & control apps  
-- Three.js 3D experiences embedded in iOS (configurators, coaches, CSS3D UIs)  
-- Reliable BLE real-time control flows  
-- AR room scanning / 3D placement with ARKit + RoomPlan  
+- Three.js 3D experiences embedded in iOS  
+- Client websites with React / Next.js on Vercel  
+- BLE real-time control · ARKit + RoomPlan workflows  
 
 ---
 
 <div align="center">
 
-Open to collaboration on **iOS · 3D · BLE · AI** products  
+Open to work on **iOS · Web · 3D · BLE · AI** products  
 
 [github.com/shahryaralam688](https://github.com/shahryaralam688) · shahryaralamft@gmail.com
 
